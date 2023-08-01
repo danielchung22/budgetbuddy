@@ -1,0 +1,79 @@
+
+/* CSS StyleSheet for Swiper Module in Dashboard.CSS */
+
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+/* CSS for Page or Similar Content */
+.container{
+    padding: 5px 10%;
+}
+
+.sub-title{
+    font-size: 50px;
+    font-weight: 600;
+    color: purple;
+}
+
+/* CSS for General Swiper Components */
+.slide-container{
+    max-width: 90%;
+    width: 85%;
+    padding: 25px 50px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.swiper-slide {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 24px;
+    background-color: white;
+    height: 180px;
+    /* ^Edit this value if u wanna change the height of the card */
+    padding: 25px 50px;
+}
+
+.swiper-slide div i {
+    color: rgba(255, 105, 180, 1); 
+    font-size: 50px;
+    margin-bottom: 18px;
+}
+
+.swiper-slide div h2{
+    color: green;
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+.swiper-slide div h4{
+    color: maroon;
+    font-size: 20px;
+    font-weight: 500;
+}
+  
+.swiper-slide .custom-slide .col-md-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* CSS for Swiper Navigation Items */
+.swiper-navBtn{
+    color: rgba(228, 16, 129, 1) !important;
+}
+
+.swiper-pagination-bullet{
+    width: 6px !important;
+    height: 6px !important;
+    border-radius: 0.2rem !important;
+    background: orange !important;
+    opacity: 1 !important;
+}
+
+.swiper-pagination-bullet-active{
+    width: 1.5rem !important;
+    background: rgba(255,188,217,1) !important;
+}

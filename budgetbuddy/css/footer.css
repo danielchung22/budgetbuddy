@@ -1,0 +1,191 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@200;300;400;500;600;700&display=swap");
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,500,300,700);
+
+.bfooter{
+	background: #666;
+	box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.12);
+	box-sizing: border-box;
+	width: 100%;
+	text-align: left;
+	font: bold 16px sans-serif;
+	padding: 55px 50px;
+  margin-top: 50px;
+}
+
+.bfooter .leftfooter,
+.bfooter .centerfooter,
+.bfooter .rightfooter{
+	display: inline-block;
+	vertical-align: top;
+}
+
+/* Footer left */
+
+.bfooter .leftfooter{
+	width: 40%;
+}
+
+/* The company logo */
+
+.bfooter h3{
+	color:  #ffffff;
+	font: normal 36px 'Open Sans', cursive;
+	margin: 0;
+}
+
+.footerpic img{
+  width: 300px;
+
+}
+
+.bfooter h3 span{
+	color:  lightseagreen;
+}
+
+/* Footer links */
+
+.bfooter .linkfooter{
+	color:  #ffffff;
+	margin: 20px 0 12px;
+	padding: 0;
+}
+
+.bfooter .linkfooter a{
+	display:inline-block;
+	line-height: 1.8;
+  font-weight:400;
+	text-decoration: none;
+	color:  inherit;
+}
+
+.bfooter .companyname{
+	color:  #222;
+	font-size: 14px;
+	font-weight: normal;
+	margin: 0;
+}
+
+/* Footer Center */
+
+.bfooter .centerfooter{
+	width: 35%;
+}
+
+.bfooter .centerfooter i{
+	background-color:  #33383b;
+	color: #ffffff;
+	font-size: 20px;
+	width: 38px;
+	height: 38px;
+	border-radius: 50%;
+	text-align: center;
+	line-height: 42px;
+	margin: 10px 15px;
+	vertical-align: middle;
+}
+
+.bfooter .centerfooter i.fa-envelope{
+	font-size: 14px;
+	line-height: 38px;
+}
+
+.bfooter .centerfooter p{
+	display: inline-block;
+	color: #ffffff;
+  font-weight:400;
+	vertical-align: middle;
+	margin:0;
+}
+
+.bfooter .centerfooter p span{
+	display:block;
+	font-weight: normal;
+	font-size:14px;
+	line-height:2;
+}
+
+.bfooter .centerfooter p a{
+	color:  lightseagreen;
+	text-decoration: none;;
+}
+
+.bfooter .linkfooter a:before {
+  content: "|";
+  font-weight:300;
+  font-size: 20px;
+  left: 0;
+  color: #fff;
+  display: inline-block;
+  padding-right: 5px;
+}
+
+.bfooter .linkfooter .link-1:before {
+  content: none;
+}
+
+/* Footer Right */
+
+.bfooter .rightfooter{
+	width: 20%;
+}
+
+.bfooter .aboutfooter{
+	line-height: 20px;
+	color:  #92999f;
+	font-size: 13px;
+	font-weight: normal;
+	margin: 0;
+}
+
+.bfooter .aboutfooter span{
+	display: block;
+	color:  #ffffff;
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 20px;
+}
+
+.bfooter .iconfooter{
+	margin-top: 25px;
+}
+
+.bfooter .iconfooter a{
+	display: inline-block;
+	width: 35px;
+	height: 35px;
+	cursor: pointer;
+	background-color:  #33383b;
+	border-radius: 2px;
+
+	font-size: 20px;
+	color: #ffffff;
+	text-align: center;
+	line-height: 35px;
+
+	margin-right: 3px;
+	margin-bottom: 5px;
+}
+
+/* If you don't want the footer to be responsive, remove these media queries */
+
+@media (max-width: 880px) {
+
+	.bfooter{
+		font: bold 14px sans-serif;
+	}
+
+	.bfooter .leftfooter,
+	.bfooter .centerfooter,
+	.bfooter .rightfooter{
+		display: block;
+		width: 100%;
+		margin-bottom: 40px;
+		text-align: center;
+	}
+
+	.bfooter .centerfooter i{
+		margin-left: 0;
+	}
+
+}
