@@ -40,17 +40,6 @@ TeamPicoPark
 ### Coursework Description
 Purpose: To build and design dynamic website to analyse data - HTML, CSS, JavaScript, SQL, and PHP programming languages required to build the website, and use localhost server to publish it.
 
-The content pages will include at least:
-* Responsive login and register form
-* Responsive home page
-* Responsive about page
-* Responsive search page
-* Dashboard Page
-* Data entry page (Manual)
-* Data entry page (Dataset)
-* Data display and modify page
-* Analytics Data page (3 different types of charts)
-
 ### Course Information
 * BAA3114 Web Design and Development
 * [Bachelor of Business Analytics (Hons)](https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-business-analytics-honours)
