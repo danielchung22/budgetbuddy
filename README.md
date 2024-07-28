@@ -4,7 +4,7 @@ Developed as part of Group Assignment to develop Web Page for BAA3114 Web Design
 
 ### Installation
 1. Download the budgetbuddy.zip file and unzip the contents.
-2. Install XAMPP [@XAMPP](https://www.apachefriends.org/download.html) and start Actions - Apache, MySQL, FileZilla, and Mercury.
+2. Install [XAMPP](https://www.apachefriends.org/download.html) and start Actions - Apache, MySQL, FileZilla, and Mercury.
 3. Place the unzipped budgetbuddy folder into XAMPP > htdocs.
 4. Go to phpMyAdmin using "localhost/phpMyAdmin" and click "New".
 5. Create a database named "budgetbuddy".
