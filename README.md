@@ -9,7 +9,7 @@ Developed as part of Group Assignment to develop Web Page for BAA3114 Web Design
 4. Go to phpMyAdmin using "localhost/phpMyAdmin" and click "New".
 5. Create a database named "budgetbuddy".
 6. Click on import and choose the budgetbuddy SQL file
-7. Enter this URL http://localhost/budgetbuddy/signin.php [@Link](http://localhost/budgetbuddy/signin.php) to access the login page.
+7. Enter this URL http://localhost/budgetbuddy/signin.php in the URL bar or click this [@link](http://localhost/budgetbuddy/signin.php) to access the login page.
 
 ### Objectives
 This project aims to help users with managing their budgets by tracking expenses and generating useful insights in a easily visible dashboard. 
@@ -23,6 +23,7 @@ This project aims to help users with managing their budgets by tracking expenses
 * For more information refer to the User Guide and Developer Guides attached. 
 
 ### Developers
+TeamPicoPark
 * Els Liew
 * Daniel Chung [@danielchung22](https://github.com/danielchung22)
 * Kyle Lung
@@ -33,5 +34,9 @@ This project aims to help users with managing their budgets by tracking expenses
 * HTML
 * CSS
 * JavaScript
+
+### Course Information
+BAA3114 Web Design and Development
+Bachelor of Business Analytics (Hons) @ Sunway University.
 
 
