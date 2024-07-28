@@ -2,7 +2,7 @@
 An expense tracker with live dashboard and charts. 
 Developed using HTML, CSS, JS, PHP, and Apache Web Server as part of Group Assignment to develop a dynamic webpage to analyse data for BAA3114 Web Design and Development under Bachelor of Business Analytics (Hons) @ Sunway University.
 
-### Installation
+## Installation
 1. Download the budgetbuddy.zip file and unzip the contents.
 2. Install [XAMPP](https://www.apachefriends.org/download.html) and start Actions - Apache, MySQL, FileZilla, and Mercury.
 3. Place the unzipped budgetbuddy folder into XAMPP > htdocs.
@@ -11,18 +11,18 @@ Developed using HTML, CSS, JS, PHP, and Apache Web Server as part of Group Assig
 6. Click on import and choose the budgetbuddy SQL file
 7. Enter this URL http://localhost/budgetbuddy/signin.php in the URL bar or click this [link](http://localhost/budgetbuddy/signin.php) to access the login page.
 
-### Objectives
+## Objectives
 This project aims to help users with managing their budgets by tracking expenses and generating useful insights in a easily visible dashboard. 
 
-### Features
+## Features
 * A main page with a navigation panel and a live dashboard showing various information in slider form and chart form.
 * A page to upload or enter expenses - and 2 ways to do so, manually or by using an ExcelReader functionality.
 * A dynamic table of records that can be edited and deleted and filtered within the table itself.
 
-### Further Information and Features
+## Further Information and Features
 * For more information refer to the User Guide and Developer Guides attached. 
 
-### Developers
+## Developers
 TeamPicoPark
 * Els Liew
 * Daniel Chung [@danielchung22](https://github.com/danielchung22)
@@ -30,6 +30,7 @@ TeamPicoPark
 * Ariana Lim
 * Chiam Yan Lin
 
+## Other Information
 ### Tech Stack
 * HTML
 * CSS
