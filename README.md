@@ -1,6 +1,6 @@
 # BudgetBuddy
 An expense tracker with live dashboard and charts. 
-Developed as part of Group Assignment to develop Web Page for BAA3114 Web Design and Development under Bachelor of Business Analytics (Hons) @ Sunway University.
+Developed using HTML, CSS, JS, PHP, and Apache Web Server as part of Group Assignment to develop a dynamic webpage to analyse data for BAA3114 Web Design and Development under Bachelor of Business Analytics (Hons) @ Sunway University.
 
 ### Installation
 1. Download the budgetbuddy.zip file and unzip the contents.
@@ -34,10 +34,26 @@ TeamPicoPark
 * HTML
 * CSS
 * JavaScript
+* PHP
+* Apache Web Server
+
+### Coursework Description
+Purpose: To build and design dynamic website to analyse data - HTML, CSS, JavaScript, SQL, and PHP programming languages required to build the website, and use localhost server to publish it.
+
+The content pages will include at least:
+* Responsive login and register form
+* Responsive home page
+* Responsive about page
+* Responsive search page
+* Dashboard Page
+* Data entry page (Manual)
+* Data entry page (Dataset)
+* Data display and modify page
+* Analytics Data page (3 different types of charts)
 
 ### Course Information
 * BAA3114 Web Design and Development
-* Bachelor of Business Analytics (Hons)
+* [Bachelor of Business Analytics (Hons)](https://sunwayuniversity.edu.my/sunway-business-school/courses/bachelor-of-business-analytics-honours)
 * Sunway University
 
 
